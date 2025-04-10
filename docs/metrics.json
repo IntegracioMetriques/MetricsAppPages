@@ -1,0 +1,46 @@
+{
+    "commits": {
+        "DidacLinares": 48,
+        "didaclinaresUPC": 0,
+        "anonymous": 0,
+        "total": 48
+    },
+    "modified_lines": {
+        "DidacLinares": {
+            "additions": 4957,
+            "deletions": 564,
+            "modified": 5521
+        },
+        "didaclinaresUPC": {
+            "additions": 0,
+            "deletions": 0,
+            "modified": 0
+        },
+        "total": {
+            "additions": 4957,
+            "deletions": 564,
+            "modified": 5521
+        }
+    },
+    "issues": {
+        "assigned": {
+            "DidacLinares": 1,
+            "didaclinaresUPC": 1,
+            "non_assigned": 6
+        },
+        "closed": {
+            "DidacLinares": 1,
+            "didaclinaresUPC": 0
+        },
+        "have_pull_request": 1,
+        "assignee_is_pr_author": 1,
+        "total_closed": 1,
+        "total": 8
+    },
+    "pull_requests": {
+        "merged": 7,
+        "not_merged_by_author": 1,
+        "closed": 1,
+        "total": 9
+    }
+}
