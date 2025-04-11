@@ -1,15 +1,15 @@
 {
     "commits": {
-        "DidacLinares": 48,
+        "DidacLinares": 55,
         "didaclinaresUPC": 0,
         "anonymous": 0,
-        "total": 48
+        "total": 55
     },
     "modified_lines": {
         "DidacLinares": {
-            "additions": 4957,
-            "deletions": 564,
-            "modified": 5521
+            "additions": 5251,
+            "deletions": 707,
+            "modified": 5958
         },
         "didaclinaresUPC": {
             "additions": 0,
@@ -17,9 +17,9 @@
             "modified": 0
         },
         "total": {
-            "additions": 4957,
-            "deletions": 564,
-            "modified": 5521
+            "additions": 5251,
+            "deletions": 707,
+            "modified": 5958
         }
     },
     "issues": {
@@ -34,7 +34,7 @@
         },
         "have_pull_request": 1,
         "assignee_is_pr_author": 1,
-        "total_closed": 1,
+        "total_closed": 4,
         "total": 8
     },
     "pull_requests": {
