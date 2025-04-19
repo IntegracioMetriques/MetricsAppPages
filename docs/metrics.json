@@ -1,13 +1,19 @@
 {
     "avatars": {
         "DidacLinares": "https://avatars.githubusercontent.com/u/138216841?v=4",
-        "didaclinaresUPC": "https://avatars.githubusercontent.com/u/154509391?v=4"
+        "Aleix": "https://avatars.githubusercontent.com/u/154509391?v=4",
+        "Pau": "https://avatars.githubusercontent.com/u/154509391?v=4",
+        "Alex": "https://avatars.githubusercontent.com/u/154509391?v=4",
+        "Marc": "https://avatars.githubusercontent.com/u/154509391?v=4"
     },
     "commits": {
         "DidacLinares": 67,
-        "didaclinaresUPC": 0,
+        "Aleix": 32,
+        "Pau": 47,
+        "Alex": 56,
+        "Marc": 41,
         "anonymous": 0,
-        "total": 67
+        "total": 243
     },
     "modified_lines": {
         "DidacLinares": {
@@ -15,44 +21,71 @@
             "deletions": 788,
             "modified": 6385
         },
-        "didaclinaresUPC": {
-            "additions": 0,
-            "deletions": 0,
-            "modified": 0
+        "Aleix": {
+            "additions": 6000,
+            "deletions": 800,
+            "modified": 6800
+        },
+        "Pau": {
+            "additions": 4800,
+            "deletions": 200,
+            "modified": 5000
+        },
+        "Alex": {
+            "additions": 3500,
+            "deletions": 300,
+            "modified": 3800
+        },
+        "Marc": {
+            "additions": 4100,
+            "deletions": 600,
+            "modified": 4700
         },
         "total": {
-            "additions": 5597,
-            "deletions": 788,
-            "modified": 6385
+            "additions": 23997,
+            "deletions": 2688,
+            "modified": 30382
         }
     },
     "commit_streak": {
-        "DidacLinares": 3,
-        "didaclinaresUPC": 0
+        "DidacLinares": 5,
+        "Aleix": 8,
+        "Pau": 0,
+        "Alex": 0,
+        "Marc": 4
     },
     "longest_commit_streak_per_user": {
-        "DidacLinares": 3,
-        "didaclinaresUPC": 0
+        "DidacLinares": 7,
+        "Aleix": 10,
+        "Pau": 5,
+        "Alex": 7,
+        "Marc": 4
     },
     "issues": {
         "assigned": {
-            "DidacLinares": 1,
-            "didaclinaresUPC": 1,
-            "non_assigned": 6
+            "DidacLinares": 8,
+            "Aleix": 6,
+            "Pau": 7,
+            "Alex": 8,
+            "Marc": 7,
+            "non_assigned": 4
         },
         "closed": {
-            "DidacLinares": 1,
-            "didaclinaresUPC": 0
+            "DidacLinares": 4,
+            "Aleix": 4,
+            "Pau": 6,
+            "Alex": 5,
+            "Marc": 5
         },
-        "have_pull_request": 1,
-        "assignee_is_pr_author": 1,
-        "total_closed": 4,
-        "total": 8
+        "have_pull_request": 20,
+        "assignee_is_pr_author": 20,
+        "total_closed": 24,
+        "total": 40
     },
     "pull_requests": {
-        "merged": 10,
-        "not_merged_by_author": 2,
+        "merged": 21,
+        "not_merged_by_author": 18,
         "closed": 0,
-        "total": 11
+        "total": 23
     }
 }
