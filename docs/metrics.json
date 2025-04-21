@@ -1,14 +1,14 @@
 {
     "avatars": {
         "DidacLinares": "https://avatars.githubusercontent.com/u/138216841?v=4",
-        "Aleix": "https://avatars.githubusercontent.com/u/154509391?v=4",
+        "Lluis": "https://avatars.githubusercontent.com/u/154509391?v=4",
         "Pau": "https://avatars.githubusercontent.com/u/154509391?v=4",
         "Alex": "https://avatars.githubusercontent.com/u/154509391?v=4",
         "Marc": "https://avatars.githubusercontent.com/u/154509391?v=4"
     },
     "commits": {
         "DidacLinares": 67,
-        "Aleix": 32,
+        "Lluis": 32,
         "Pau": 47,
         "Alex": 56,
         "Marc": 41,
@@ -21,7 +21,7 @@
             "deletions": 788,
             "modified": 6385
         },
-        "Aleix": {
+        "Lluis": {
             "additions": 6000,
             "deletions": 800,
             "modified": 6800
@@ -49,14 +49,14 @@
     },
     "commit_streak": {
         "DidacLinares": 5,
-        "Aleix": 8,
+        "Lluis": 8,
         "Pau": 0,
         "Alex": 0,
         "Marc": 4
     },
     "longest_commit_streak_per_user": {
         "DidacLinares": 7,
-        "Aleix": 10,
+        "Lluis": 10,
         "Pau": 5,
         "Alex": 7,
         "Marc": 4
@@ -64,7 +64,7 @@
     "issues": {
         "assigned": {
             "DidacLinares": 8,
-            "Aleix": 6,
+            "Lluis": 6,
             "Pau": 7,
             "Alex": 8,
             "Marc": 7,
@@ -72,7 +72,7 @@
         },
         "closed": {
             "DidacLinares": 4,
-            "Aleix": 4,
+            "Lluis": 4,
             "Pau": 6,
             "Alex": 5,
             "Marc": 5
@@ -83,9 +83,23 @@
         "total": 40
     },
     "pull_requests": {
-        "merged": 21,
-        "not_merged_by_author": 18,
+        "created": {
+            "DidacLinares": 4,
+            "Lluis": 4,
+            "Pau": 6,
+            "Alex": 5,
+            "Marc": 5
+        },
+        "merged_per_member": {
+            "DidacLinares": 3,
+            "Lluis": 4,
+            "Pau": 5,
+            "Alex": 3,
+            "Marc": 2
+        },
+        "merged": 17,
+        "not_merged_by_author": 17,
         "closed": 0,
-        "total": 23
+        "total": 24
     }
 }
