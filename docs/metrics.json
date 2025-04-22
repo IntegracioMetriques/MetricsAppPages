@@ -63,31 +63,31 @@
     },
     "issues": {
         "assigned": {
-            "DidacLinares": 8,
-            "Lluis": 6,
-            "Pau": 7,
+            "DidacLinares": 9,
+            "Lluis": 7,
+            "Pau": 4,
             "Alex": 8,
-            "Marc": 7,
+            "Marc": 8,
             "non_assigned": 4
         },
         "closed": {
             "DidacLinares": 4,
             "Lluis": 4,
-            "Pau": 6,
+            "Pau": 2,
             "Alex": 5,
             "Marc": 5
         },
-        "have_pull_request": 20,
+        "have_pull_request": 18,
         "assignee_is_pr_author": 20,
-        "total_closed": 24,
+        "total_closed": 20,
         "total": 40
     },
     "pull_requests": {
         "created": {
             "DidacLinares": 4,
-            "Lluis": 4,
-            "Pau": 6,
-            "Alex": 5,
+            "Lluis": 5,
+            "Pau": 3,
+            "Alex": 7,
             "Marc": 5
         },
         "merged_per_member": {
