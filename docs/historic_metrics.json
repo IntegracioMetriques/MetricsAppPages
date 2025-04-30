@@ -117,7 +117,7 @@
                 "DidacLinares": 14,
                 "didaclinaresUPC": 2
             },
-            "merged": 16,
+            "merged": 13,
             "not_merged_by_author": 2,
             "closed": 0,
             "total": 17
@@ -182,7 +182,7 @@
             "merged": 17,
             "not_merged_by_author": 2,
             "closed": 0,
-            "total": 18
+            "total": 19
         }
     },
     "2025-04-21": {
@@ -243,8 +243,8 @@
             },
             "merged": 17,
             "not_merged_by_author": 2,
-            "closed": 0,
-            "total": 18
+            "closed": 1,
+            "total": 19
         }
     }
 }
