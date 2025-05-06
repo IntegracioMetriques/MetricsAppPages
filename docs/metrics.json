@@ -102,5 +102,32 @@
         "not_merged_by_author": 17,
         "closed": 0,
         "total": 24
+    },
+    "project": {
+        "assigned_per_member": {
+            "DidacLinares": 9,
+            "Lluis": 7,
+            "Pau": 4,
+            "Alex": 8,
+            "Marc": 8,
+            "non_assigned": 4
+        },
+        "in_progress_per_member": {
+            "DidacLinares": 1,
+            "Lluis": 1,
+            "Pau": 2,
+            "Alex": 1,
+            "Marc": 0
+        },
+        "done_per_member": {
+            "DidacLinares": 4,
+            "Lluis": 5,
+            "Pau": 3,
+            "Alex": 6,
+            "Marc": 5
+        },
+        "in_progress": 6,
+        "done": 23,
+        "total": 40
     }
 }

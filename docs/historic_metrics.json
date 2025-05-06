@@ -1,26 +1,43 @@
 {
     "2025-04-18": {
         "commits": {
-            "DidacLinares": 75,
-            "didaclinaresUPC": 0,
-            "anonymous": 0,
-            "total": 75
+            "DidacLinares": 0,
+            "Lluis": 0,
+            "Pau": 0,
+            "Alex": 0,
+            "Marc": 0,
+            "total": 0
         },
         "modified_lines": {
             "DidacLinares": {
-                "additions": 6216,
-                "deletions": 921,
-                "modified": 7137
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
             },
-            "didaclinaresUPC": {
+            "Lluis": {
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
+            },
+            "Pau": {
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
+            },
+            "Alex": {
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
+            },
+            "Marc": {
                 "additions": 0,
                 "deletions": 0,
                 "modified": 0
             },
             "total": {
-                "additions": 6216,
-                "deletions": 921,
-                "modified": 7137
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
             }
         },
         "commit_streak": {
@@ -33,56 +50,112 @@
         },
         "issues": {
             "assigned": {
-                "DidacLinares": 1,
-                "didaclinaresUPC": 1,
-                "non_assigned": 6
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0,
+                "non_assigned": 4
             },
             "closed": {
-                "DidacLinares": 1,
-                "didaclinaresUPC": 0
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0
             },
-            "have_pull_request": 1,
-            "assignee_is_pr_author": 1,
-            "total_closed": 2,
-            "total": 7
+            "have_pull_request": 18,
+            "assignee_is_pr_author": 20,
+            "total_closed": 20,
+            "total": 40
         },
         "pull_requests": {
             "created": {
-                "DidacLinares": 17,
-                "didaclinaresUPC": 0
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0
             },
             "merged_per_member": {
-                "DidacLinares": 14,
-                "didaclinaresUPC": 2
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0
             },
-            "merged": 16,
-            "not_merged_by_author": 2,
+            "merged": 17,
+            "not_merged_by_author": 17,
             "closed": 0,
-            "total": 17
+            "total": 24
+        },
+        "project": {
+            "assigned_per_member": {
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0,
+                "non_assigned": 38
+            },
+            "in_progress_per_member": {
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0
+            },
+            "done_per_member": {
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0
+            },
+            "in_progress": 0,
+            "done": 0,
+            "total": 38
         }
     },
     "2025-04-19": {
         "commits": {
-            "DidacLinares": 78,
-            "didaclinaresUPC": 0,
-            "anonymous": 0,
-            "total": 78
+            "DidacLinares": 9,
+            "Lluis": 11,
+            "Pau": 7,
+            "Alex": 10,
+            "Marc": 6,
+            "total": 43
         },
         "modified_lines": {
             "DidacLinares": {
-                "additions": 6427,
-                "deletions": 1047,
-                "modified": 7474
-            },
-            "didaclinaresUPC": {
-                "additions": 0,
+                "additions": 1000,
                 "deletions": 0,
-                "modified": 0
+                "modified": 1000
+            },
+            "Lluis": {
+                "additions": 6000,
+                "deletions": 800,
+                "modified": 1200
+            },
+            "Pau": {
+                "additions": 4800,
+                "deletions": 200,
+                "modified": 900
+            },
+            "Alex": {
+                "additions": 3500,
+                "deletions": 300,
+                "modified": 1500
+            },
+            "Marc": {
+                "additions": 4100,
+                "deletions": 600,
+                "modified": 1000
             },
             "total": {
-                "additions": 6427,
-                "deletions": 1047,
-                "modified": 7474
+                "additions": 23997,
+                "deletions": 2688,
+                "modified": 30382
             }
         },
         "commit_streak": {
@@ -95,56 +168,112 @@
         },
         "issues": {
             "assigned": {
-                "DidacLinares": 1,
-                "didaclinaresUPC": 1,
-                "non_assigned": 6
+                "DidacLinares": 7,
+                "Lluis": 7,
+                "Pau": 3,
+                "Alex": 6,
+                "Marc": 5,
+                "non_assigned": 4
             },
             "closed": {
-                "DidacLinares": 1,
-                "didaclinaresUPC": 0
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0
             },
-            "have_pull_request": 1,
-            "assignee_is_pr_author": 1,
-            "total_closed": 3,
-            "total": 8
+            "have_pull_request": 18,
+            "assignee_is_pr_author": 20,
+            "total_closed": 20,
+            "total": 40
         },
         "pull_requests": {
             "created": {
-                "DidacLinares": 17,
-                "didaclinaresUPC": 0
+                "DidacLinares": 2,
+                "Lluis": 2,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 2
             },
             "merged_per_member": {
-                "DidacLinares": 14,
-                "didaclinaresUPC": 2
+                "DidacLinares": 1,
+                "Lluis": 1,
+                "Pau": 1,
+                "Alex": 1,
+                "Marc": 1
             },
-            "merged": 13,
-            "not_merged_by_author": 2,
+            "merged": 17,
+            "not_merged_by_author": 17,
             "closed": 0,
-            "total": 17
+            "total": 24
+        },
+        "project": {
+            "assigned_per_member": {
+                "DidacLinares": 7,
+                "Lluis": 6,
+                "Pau": 2,
+                "Alex": 7,
+                "Marc": 7,
+                "non_assigned": 11
+            },
+            "in_progress_per_member": {
+                "DidacLinares": 1,
+                "Lluis": 1,
+                "Pau": 1,
+                "Alex": 1,
+                "Marc": 1
+            },
+            "done_per_member": {
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0
+            },
+            "in_progress": 5,
+            "done": 0,
+            "total": 40
         }
     },
     "2025-04-20": {
         "commits": {
-            "DidacLinares": 79,
-            "didaclinaresUPC": 0,
-            "anonymous": 0,
-            "total": 79
+            "DidacLinares": 15,
+            "Lluis": 18,
+            "Pau": 13,
+            "Alex": 20,
+            "Marc": 16,
+            "total": 82
         },
         "modified_lines": {
             "DidacLinares": {
-                "additions": 6500,
-                "deletions": 1063,
-                "modified": 7563
-            },
-            "didaclinaresUPC": {
-                "additions": 0,
+                "additions": 2200,
                 "deletions": 0,
-                "modified": 0
+                "modified": 2800
+            },
+            "Lluis": {
+                "additions": 3500,
+                "deletions": 800,
+                "modified": 3500
+            },
+            "Pau": {
+                "additions": 4800,
+                "deletions": 200,
+                "modified": 2500
+            },
+            "Alex": {
+                "additions": 3500,
+                "deletions": 300,
+                "modified": 3000
+            },
+            "Marc": {
+                "additions": 4100,
+                "deletions": 600,
+                "modified": 2800
             },
             "total": {
-                "additions": 6500,
-                "deletions": 1063,
-                "modified": 7563
+                "additions": 23997,
+                "deletions": 2688,
+                "modified": 30382
             }
         },
         "commit_streak": {
@@ -157,56 +286,112 @@
         },
         "issues": {
             "assigned": {
-                "DidacLinares": 1,
-                "didaclinaresUPC": 1,
-                "non_assigned": 6
+                "DidacLinares": 9,
+                "Lluis": 7,
+                "Pau": 4,
+                "Alex": 8,
+                "Marc": 8,
+                "non_assigned": 4
             },
             "closed": {
-                "DidacLinares": 1,
-                "didaclinaresUPC": 0
+                "DidacLinares": 3,
+                "Lluis": 2,
+                "Pau": 1,
+                "Alex": 4,
+                "Marc": 3
             },
-            "have_pull_request": 1,
-            "assignee_is_pr_author": 1,
-            "total_closed": 4,
-            "total": 8
+            "have_pull_request": 18,
+            "assignee_is_pr_author": 20,
+            "total_closed": 20,
+            "total": 40
         },
         "pull_requests": {
             "created": {
-                "DidacLinares": 18,
-                "didaclinaresUPC": 0
+                "DidacLinares": 5,
+                "Lluis": 5,
+                "Pau": 5,
+                "Alex": 5,
+                "Marc": 5
             },
             "merged_per_member": {
-                "DidacLinares": 15,
-                "didaclinaresUPC": 2
+                "DidacLinares": 3,
+                "Lluis": 3,
+                "Pau": 3,
+                "Alex": 3,
+                "Marc": 3
             },
             "merged": 17,
-            "not_merged_by_author": 2,
+            "not_merged_by_author": 17,
             "closed": 0,
-            "total": 19
+            "total": 24
+        },
+        "project": {
+            "assigned_per_member": {
+                "DidacLinares": 9,
+                "Lluis": 7,
+                "Pau": 4,
+                "Alex": 8,
+                "Marc": 8,
+                "non_assigned": 11
+            },
+            "in_progress_per_member": {
+                "DidacLinares": 1,
+                "Lluis": 1,
+                "Pau": 0,
+                "Alex": 1,
+                "Marc": 1
+            },
+            "done_per_member": {
+                "DidacLinares": 1,
+                "Lluis": 1,
+                "Pau": 1,
+                "Alex": 1,
+                "Marc": 1
+            },
+            "in_progress": 4,
+            "done": 5,
+            "total": 40
         }
     },
     "2025-04-21": {
         "commits": {
-            "DidacLinares": 81,
-            "didaclinaresUPC": 0,
-            "anonymous": 0,
-            "total": 81
+            "DidacLinares": 17,
+            "Lluis": 21,
+            "Pau": 15,
+            "Alex": 22,
+            "Marc": 18,
+            "total": 93
         },
         "modified_lines": {
             "DidacLinares": {
-                "additions": 6800,
-                "deletions": 1086,
-                "modified": 7886
+                "additions": 5597,
+                "deletions": 788,
+                "modified": 6385
             },
-            "didaclinaresUPC": {
-                "additions": 0,
-                "deletions": 0,
-                "modified": 0
+            "Lluis": {
+                "additions": 6000,
+                "deletions": 800,
+                "modified": 6800
+            },
+            "Pau": {
+                "additions": 4800,
+                "deletions": 200,
+                "modified": 5000
+            },
+            "Alex": {
+                "additions": 3500,
+                "deletions": 300,
+                "modified": 4500
+            },
+            "Marc": {
+                "additions": 4100,
+                "deletions": 600,
+                "modified": 4700
             },
             "total": {
-                "additions": 6800,
-                "deletions": 1086,
-                "modified": 7886
+                "additions": 23997,
+                "deletions": 2688,
+                "modified": 30382
             }
         },
         "commit_streak": {
@@ -219,32 +404,71 @@
         },
         "issues": {
             "assigned": {
-                "DidacLinares": 1,
-                "didaclinaresUPC": 1,
-                "non_assigned": 6
+                "DidacLinares": 9,
+                "Lluis": 7,
+                "Pau": 4,
+                "Alex": 8,
+                "Marc": 8,
+                "non_assigned": 4
             },
             "closed": {
-                "DidacLinares": 1,
-                "didaclinaresUPC": 0
+                "DidacLinares": 4,
+                "Lluis": 4,
+                "Pau": 2,
+                "Alex": 5,
+                "Marc": 5
             },
-            "have_pull_request": 1,
-            "assignee_is_pr_author": 1,
-            "total_closed": 6,
-            "total": 8
+            "have_pull_request": 18,
+            "assignee_is_pr_author": 20,
+            "total_closed": 20,
+            "total": 40
         },
         "pull_requests": {
             "created": {
-                "DidacLinares": 18,
-                "didaclinaresUPC": 0
+                "DidacLinares": 5,
+                "Lluis": 5,
+                "Pau": 5,
+                "Alex": 5,
+                "Marc": 5
             },
             "merged_per_member": {
-                "DidacLinares": 15,
-                "didaclinaresUPC": 2
+                "DidacLinares": 5,
+                "Lluis": 5,
+                "Pau": 5,
+                "Alex": 5,
+                "Marc": 5
             },
             "merged": 17,
-            "not_merged_by_author": 2,
-            "closed": 1,
-            "total": 19
+            "not_merged_by_author": 17,
+            "closed": 0,
+            "total": 24
+        },
+        "project": {
+            "assigned_per_member": {
+                "DidacLinares": 9,
+                "Lluis": 7,
+                "Pau": 4,
+                "Alex": 8,
+                "Marc": 8,
+                "non_assigned": 4
+            },
+            "in_progress_per_member": {
+                "DidacLinares": 1,
+                "Lluis": 1,
+                "Pau": 2,
+                "Alex": 1,
+                "Marc": 0
+            },
+            "done_per_member": {
+                "DidacLinares": 4,
+                "Lluis": 5,
+                "Pau": 3,
+                "Alex": 6,
+                "Marc": 5
+            },
+            "in_progress": 6,
+            "done": 23,
+            "total": 40
         }
     }
 }
