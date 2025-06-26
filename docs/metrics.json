@@ -1,13 +1,13 @@
 {
     "avatars": {
-        "DidacLinares": "https://avatars.githubusercontent.com/u/138216841?v=4",
+        "Didac": "https://avatars.githubusercontent.com/u/138216841?v=4",
         "Lluis": "https://avatars.githubusercontent.com/u/154509391?v=4",
         "Pau": "https://avatars.githubusercontent.com/u/154509391?v=4",
         "Alex": "https://avatars.githubusercontent.com/u/154509391?v=4",
         "Marc": "https://avatars.githubusercontent.com/u/154509391?v=4"
     },
     "commits": {
-        "DidacLinares": 67,
+        "Didac": 67,
         "Lluis": 32,
         "Pau": 47,
         "Alex": 56,
@@ -16,7 +16,7 @@
         "total": 243
     },
     "modified_lines": {
-        "DidacLinares": {
+        "Didac": {
             "additions": 5597,
             "deletions": 788,
             "modified": 6385
@@ -48,14 +48,14 @@
         }
     },
     "commit_streak": {
-        "DidacLinares": 5,
+        "Didac": 5,
         "Lluis": 8,
         "Pau": 0,
         "Alex": 0,
         "Marc": 4
     },
     "longest_commit_streak_per_user": {
-        "DidacLinares": 7,
+        "Didac": 7,
         "Lluis": 10,
         "Pau": 5,
         "Alex": 7,
@@ -64,7 +64,7 @@
     "commit_merges" : 18,
     "issues": {
         "assigned": {
-            "DidacLinares": 9,
+            "Didac": 9,
             "Lluis": 7,
             "Pau": 4,
             "Alex": 8,
@@ -72,7 +72,7 @@
             "non_assigned": 4
         },
         "closed": {
-            "DidacLinares": 4,
+            "Didac": 4,
             "Lluis": 4,
             "Pau": 2,
             "Alex": 5,
@@ -85,14 +85,14 @@
     },
     "pull_requests": {
         "created": {
-            "DidacLinares": 4,
+            "Didac": 4,
             "Lluis": 5,
             "Pau": 3,
             "Alex": 7,
             "Marc": 5
         },
         "merged_per_member": {
-            "DidacLinares": 3,
+            "Didac": 3,
             "Lluis": 4,
             "Pau": 5,
             "Alex": 3,
@@ -128,7 +128,7 @@
         "metrics_by_iteration": {
             "Iteration 3": {
                 "assigned_per_member": {
-                    "DidacLinares": 0,
+                    "Didac": 0,
                     "Lluis": 0,
                     "Pau": 0,
                     "Alex": 0,
@@ -136,21 +136,21 @@
                     "non_assigned": 0
                 },
                 "todo_per_member": {
-                    "DidacLinares": 0,
+                    "Didac": 0,
                     "Lluis": 0,
                     "Pau": 0,
                     "Alex": 0,
                     "Marc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 0,
+                    "Didac": 0,
                     "Lluis": 0,
                     "Pau": 0,
                     "Alex": 0,
                     "Marc": 0
                 },
                 "done_per_member": {
-                    "DidacLinares": 0,
+                    "Didac": 0,
                     "Lluis": 0,
                     "Pau": 0,
                     "Alex": 0,
@@ -169,7 +169,7 @@
             },
             "Iteration 2": {
                 "assigned_per_member": {
-                    "DidacLinares": 0,
+                    "Didac": 0,
                     "Lluis": 0,
                     "Pau": 0,
                     "Alex": 0,
@@ -177,21 +177,21 @@
                     "non_assigned": 0
                 },
                 "todo_per_member": {
-                    "DidacLinares": 0,
+                    "Didac": 0,
                     "Lluis": 0,
                     "Pau": 0,
                     "Alex": 0,
                     "Marc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 0,
+                    "Didac": 0,
                     "Lluis": 0,
                     "Pau": 0,
                     "Alex": 0,
                     "Marc": 0
                 },
                 "done_per_member": {
-                    "DidacLinares": 0,
+                    "Didac": 0,
                     "Lluis": 0,
                     "Pau": 0,
                     "Alex": 0,
@@ -210,7 +210,7 @@
             },
             "Iteration": {
                 "assigned_per_member": {
-                    "DidacLinares": 9,
+                    "Didac": 9,
                     "Lluis": 7,
                     "Pau": 6,
                     "Alex": 8,
@@ -218,21 +218,21 @@
                     "non_assigned": 4
                 },
                 "todo_per_member": {
-                    "DidacLinares": 1,
+                    "Didac": 1,
                     "Lluis": 1,
                     "Pau": 0,
                     "Alex": 1,
                     "Marc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 1,
+                    "Didac": 1,
                     "Lluis": 1,
                     "Pau": 2,
                     "Alex": 1,
                     "Marc": 0
                 },
                 "done_per_member": {
-                    "DidacLinares": 4,
+                    "Didac": 4,
                     "Lluis": 5,
                     "Pau": 2,
                     "Alex": 6,
@@ -254,7 +254,7 @@
             },
             "no_iteration": {
                 "assigned_per_member": {
-                    "DidacLinares": 9,
+                    "Didac": 9,
                     "Lluis": 7,
                     "Pau": 6,
                     "Alex": 8,
@@ -262,21 +262,21 @@
                     "non_assigned": 4
                 },
                 "todo_per_member": {
-                    "DidacLinares": 1,
+                    "Didac": 1,
                     "Lluis": 1,
                     "Pau": 0,
                     "Alex": 1,
                     "Marc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 1,
+                    "Didac": 1,
                     "Lluis": 1,
                     "Pau": 2,
                     "Alex": 1,
                     "Marc": 0
                 },
                 "done_per_member": {
-                    "DidacLinares": 4,
+                    "Didac": 4,
                     "Lluis": 5,
                     "Pau": 3,
                     "Alex": 6,
@@ -298,7 +298,7 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "DidacLinares": 9,
+                    "Didac": 9,
                     "Lluis": 7,
                     "Pau": 6,
                     "Alex": 8,
@@ -306,21 +306,21 @@
                     "non_assigned": 4
                 },
                 "todo_per_member": {
-                    "DidacLinares": 1,
+                    "Didac": 1,
                     "Lluis": 1,
                     "Pau": 0,
                     "Alex": 1,
                     "Marc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 1,
+                    "Didac": 1,
                     "Lluis": 1,
                     "Pau": 2,
                     "Alex": 1,
                     "Marc": 0
                 },
                 "done_per_member": {
-                    "DidacLinares": 4,
+                    "Didac": 4,
                     "Lluis": 5,
                     "Pau": 3,
                     "Alex": 6,
