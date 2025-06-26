@@ -128,85 +128,85 @@
         "metrics_by_iteration": {
             "Iteration 3": {
                 "assigned_per_member": {
-                    "DidacLinares": 9,
-                    "Lluis": 7,
-                    "Pau": 4,
-                    "Alex": 8,
-                    "Marc": 8,
-                    "non_assigned": 4
+                    "DidacLinares": 0,
+                    "Lluis": 0,
+                    "Pau": 0,
+                    "Alex": 0,
+                    "Marc": 0,
+                    "non_assigned": 0
                 },
                 "todo_per_member": {
-                    "DidacLinares": 1,
-                    "Lluis": 1,
+                    "DidacLinares": 0,
+                    "Lluis": 0,
                     "Pau": 0,
-                    "Alex": 1,
+                    "Alex": 0,
                     "Marc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 1,
-                    "Lluis": 1,
-                    "Pau": 2,
-                    "Alex": 1,
+                    "DidacLinares": 0,
+                    "Lluis": 0,
+                    "Pau": 0,
+                    "Alex": 0,
                     "Marc": 0
                 },
                 "done_per_member": {
-                    "DidacLinares": 4,
-                    "Lluis": 5,
-                    "Pau": 2,
-                    "Alex": 6,
-                    "Marc": 5
+                    "DidacLinares": 0,
+                    "Lluis": 0,
+                    "Pau": 0,
+                    "Alex": 0,
+                    "Marc": 0
                 },
-                "in_progress": 5,
-                "done":23,
-                "total_issues": 2,
-                "total_issues_with_type": 1,
+                "in_progress": 0,
+                "done":0,
+                "total_issues": 0,
+                "total_issues_with_type": 0,
                 "total_features": 0,
-                "total_tasks": 40,
+                "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_done": 0,
                 "total_features_in_progress": 0,
-                "total": 40
+                "total": 0
             },
             "Iteration 2": {
                 "assigned_per_member": {
-                    "DidacLinares": 9,
-                    "Lluis": 7,
-                    "Pau": 4,
-                    "Alex": 8,
-                    "Marc": 8,
-                    "non_assigned": 4
+                    "DidacLinares": 0,
+                    "Lluis": 0,
+                    "Pau": 0,
+                    "Alex": 0,
+                    "Marc": 0,
+                    "non_assigned": 0
                 },
                 "todo_per_member": {
-                    "DidacLinares": 1,
-                    "Lluis": 1,
+                    "DidacLinares": 0,
+                    "Lluis": 0,
                     "Pau": 0,
-                    "Alex": 1,
+                    "Alex": 0,
                     "Marc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 1,
-                    "Lluis": 1,
-                    "Pau": 2,
-                    "Alex": 1,
+                    "DidacLinares": 0,
+                    "Lluis": 0,
+                    "Pau": 0,
+                    "Alex": 0,
                     "Marc": 0
                 },
                 "done_per_member": {
-                    "DidacLinares": 4,
-                    "Lluis": 5,
-                    "Pau": 2,
-                    "Alex": 6,
-                    "Marc": 5
+                    "DidacLinares": 0,
+                    "Lluis": 0,
+                    "Pau": 0,
+                    "Alex": 0,
+                    "Marc": 0
                 },
-                "in_progress": 5,
-                "done":23,
-                "total_issues": 2,
-                "total_issues_with_type": 1,
+                "in_progress": 0,
+                "done":0,
+                "total_issues": 0,
+                "total_issues_with_type": 0,
                 "total_features": 0,
-                "total_tasks": 40,
+                "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_done": 0,
                 "total_features_in_progress": 0,
-                "total": 40
+                "total": 0
             },
             "Iteration": {
                 "assigned_per_member": {
