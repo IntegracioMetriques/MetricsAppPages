@@ -1,197 +1,133 @@
-{   
-    "2025-05-23": {
+{
+    "2025-06-02": {
         "commits": {
-            "DidacLinares": 67,
-            "Lluis": 32,
-            "Pau": 47,
-            "Alex": 56,
-            "Marc": 41,
+            "DidacLinares": 0,
+            "Lluis": 0,
+            "Pau": 0,
+            "Alex": 0,
+            "Marc": 0,
             "anonymous": 0,
-            "total": 243
+            "total": 0
         },
         "modified_lines": {
             "DidacLinares": {
-                "additions": 5597,
-                "deletions": 788,
-                "modified": 6385
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
             },
             "Lluis": {
-                "additions": 6000,
-                "deletions": 800,
-                "modified": 6800
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
             },
             "Pau": {
-                "additions": 4800,
-                "deletions": 200,
-                "modified": 5000
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
             },
             "Alex": {
-                "additions": 3500,
-                "deletions": 300,
-                "modified": 3800
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
             },
             "Marc": {
-                "additions": 4100,
-                "deletions": 600,
-                "modified": 4700
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
             },
             "total": {
-                "additions": 23997,
-                "deletions": 2688,
-                "modified": 30382
+                "additions": 0,
+                "deletions": 0,
+                "modified": 0
             }
         },
         "commit_streak": {
-            "DidacLinares": 5,
-            "Lluis": 8,
+            "DidacLinares": 0,
+            "Lluis": 0,
             "Pau": 0,
             "Alex": 0,
-            "Marc": 4
+            "Marc": 0
         },
         "longest_commit_streak_per_user": {
-            "DidacLinares": 7,
-            "Lluis": 10,
-            "Pau": 5,
-            "Alex": 7,
-            "Marc": 4
+            "DidacLinares": 0,
+            "Lluis": 0,
+            "Pau": 0,
+            "Alex": 0,
+            "Marc": 0
         },
-        "commit_merges" : 18,
+        "commit_merges": 0,
         "issues": {
             "assigned": {
-                "DidacLinares": 9,
-                "Lluis": 7,
-                "Pau": 4,
-                "Alex": 8,
-                "Marc": 8,
+                "DidacLinares": 1,
+                "Lluis": 0,
+                "Pau": 1,
+                "Alex": 1,
+                "Marc": 1,
                 "non_assigned": 4
             },
             "closed": {
-                "DidacLinares": 4,
-                "Lluis": 4,
-                "Pau": 2,
-                "Alex": 5,
-                "Marc": 5
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0
             },
-            "have_pull_request": 18,
-            "assignee_is_pr_author": 20,
-            "total_closed": 20,
-            "total": 40
+            "have_pull_request": 0,
+            "assignee_is_pr_author": 0,
+            "total_closed": 0,
+            "total": 0
         },
         "pull_requests": {
             "created": {
-                "DidacLinares": 4,
-                "Lluis": 5,
-                "Pau": 3,
-                "Alex": 7,
-                "Marc": 5
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0
             },
             "merged_per_member": {
-                "DidacLinares": 3,
-                "Lluis": 4,
-                "Pau": 5,
-                "Alex": 3,
-                "Marc": 2
+                "DidacLinares": 0,
+                "Lluis": 0,
+                "Pau": 0,
+                "Alex": 0,
+                "Marc": 0
             },
-            "merged": 17,
-            "not_merged_by_author": 17,
+            "merged": 0,
+            "not_merged_by_author": 0,
             "closed": 0,
-            "total": 24
+            "total": 0
         },
         "project": {
             "has_iterations": true,
             "iterations": {
                 "Iteration": {
                     "title": "Iteration",
-                    "startDate": "2025-04-30",
-                    "endDate": "2025-05-14",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
                     "duration": 14
                 },
                 "Iteration 2": {
                     "title": "Iteration 2",
-                    "startDate": "2025-05-14",
-                    "endDate": "2025-05-26",
-                    "duration": 12
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
                 },
                 "Iteration 3": {
                     "title": "Iteration 3",
-                    "startDate": "2025-05-26",
-                    "endDate": "2025-06-11",
-                    "duration": 16
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
                 }
             },
             "metrics_by_iteration": {
-                "Iteration 3": {
-                    "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
-                        "non_assigned": 4
-                    },
-                    "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
-                        "Alex": 1,
-                        "Marc": 0
-                    },
-                    "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
-                    },
-                    "in_progress": 5,
-                    "done":23,
-                    "total_issues": 2,
-                    "total_issues_with_type": 1,
-                    "total_features": 0,
-                    "total_tasks": 1,
-                    "total_bugs": 0,
-                    "total": 40
-                },
-                "Iteration 2": {
-                    "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
-                        "non_assigned": 4
-                    },
-                    "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
-                        "Alex": 1,
-                        "Marc": 0
-                    },
-                    "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
-                    },
-                    "in_progress": 5,
-                    "done":23,
-                    "total_issues": 2,
-                    "total_issues_with_type": 1,
-                    "total_features": 0,
-                    "total_tasks": 1,
-                    "total_bugs": 0,
-                    "total": 40
-                },
                 "Iteration": {
                     "assigned_per_member": {
-                        "DidacLinares": 5,
-                        "Lluis": 6,
-                        "Pau": 4,
-                        "Alex": 7,
-                        "Marc": 6,
-                        "non_assigned": 4
+                        "DidacLinares": 0,
+                        "Lluis": 0,
+                        "Pau": 0,
+                        "Alex": 0,
+                        "Marc": 0,
+                        "non_assigned": 0
                     },
                     "in_progress_per_member": {
                         "DidacLinares": 0,
@@ -201,60 +137,272 @@
                         "Marc": 0
                     },
                     "done_per_member": {
-                        "DidacLinares": 5,
-                        "Lluis": 6,
-                        "Pau": 4,
-                        "Alex": 7,
-                        "Marc": 6
+                        "DidacLinares": 0,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 0
                     },
                     "in_progress": 0,
-                    "done":28,
-                    "total_issues": 32,
-                    "total_issues_with_type": 32,
+                    "done": 0,
+                    "todo": 3,
+                    "in_review": 0,
+                    "total_issues": 4,
+                    "total_issues_with_type": 4,
+                    "total_features_todo": 1,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
                     "total_features": 0,
-                    "total_tasks": 32,
+                    "total_tasks": 3,
                     "total_bugs": 0,
-                    "total": 32
+                    "total": 4
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
                 },
                 "no_iteration": {
                     "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
+                        "DidacLinares": 1,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 1,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
-                        "Alex": 1,
-                        "Marc": 0
+                        "DidacLinares": 0,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 2
                     },
                     "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
+                        "DidacLinares": 0,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 0
                     },
-                    "in_progress": 5,
-                    "done":23,
-                    "total_issues": 2,
+                    "in_progress": 1,
+                    "done": 0,
+                    "todo": 2,
+                    "in_review": 0,
+                    "total_issues": 4,
                     "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
                     "total_features": 0,
-                    "total_tasks": 1,
+                    "total_tasks": 4,
                     "total_bugs": 0,
                     "total": 40
                 },
                 "total": {
                     "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
+                        "DidacLinares": 0,
+                        "Lluis": 0,
+                        "Pau": 0,
+                        "Alex": 0,
+                        "Marc": 0,
+                        "non_assigned": 0
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 0,
+                        "Pau": 0,
+                        "Alex": 0,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 0
+                    },
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 3,
+                    "in_review": 0,
+                    "total_issues": 4,
+                    "total_issues_with_type": 4,
+                    "total_features_todo": 1,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 3,
+                    "total_bugs": 0,
+                    "total": 4
+                }
+            }
+        }
+    },
+    "2025-06-03": {
+        "commits": {
+            "DidacLinares": 2,
+            "Lluis": 6,
+            "Pau": 4,
+            "Alex": 3,
+            "Marc": 8,
+            "anonymous": 0,
+            "total": 23
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 1032,
+                "deletions": 156,
+                "modified": 1188
+            },
+            "Lluis": {
+                "additions": 3181,
+                "deletions": 287,
+                "modified": 3468
+            },
+            "Pau": {
+                "additions": 966,
+                "deletions": 552,
+                "modified": 1518
+            },
+            "Alex": {
+                "additions": 1257,
+                "deletions": 310,
+                "modified": 1567
+            },
+            "Marc": {
+                "additions": 3024,
+                "deletions": 504,
+                "modified": 3528
+            },
+            "total": {
+                "additions": 9460,
+                "deletions": 1809,
+                "modified": 11269
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 1,
+            "Lluis": 2,
+            "Pau": 2,
+            "Alex": 2,
+            "Marc": 2
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 1,
+            "Lluis": 2,
+            "Pau": 2,
+            "Alex": 2,
+            "Marc": 2
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 2,
+                "Lluis": 1,
+                "Pau": 1,
+                "Alex": 1,
+                "Marc": 1,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 0,
+                "Lluis": 1,
+                "Pau": 1,
+                "Alex": 1,
+                "Marc": 0
+            },
+            "have_pull_request": 5,
+            "assignee_is_pr_author": 5,
+            "total_closed": 0,
+            "total": 30
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 1,
+                "Lluis": 0,
+                "Pau": 2,
+                "Alex": 0,
+                "Marc": 2
+            },
+            "merged_per_member": {
+                "DidacLinares": 1,
+                "Lluis": 0,
+                "Pau": 1,
+                "Alex": 0,
+                "Marc": 2
+            },
+            "merged": 0,
+            "not_merged_by_author": 0,
+            "closed": 0,
+            "total": 0
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 1,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
@@ -262,885 +410,3729 @@
                         "Lluis": 1,
                         "Pau": 2,
                         "Alex": 1,
+                        "Marc": 2
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 0
+                    },
+                    "in_progress": 5,
+                    "done": 3,
+                    "todo": 2,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 2,
+                    "total_features_in_review": 0,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 2,
+                    "total_bugs": 0,
+                    "total": 30
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 1,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 1,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 0
+                    },
+                    "in_progress": 5,
+                    "done": 3,
+                    "todo": 2,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 2,
+                    "total_features_in_review": 0,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 2,
+                    "total_bugs": 0,
+                    "total": 30
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 1,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 1,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 0
+                    },
+                    "in_progress": 5,
+                    "done": 3,
+                    "todo": 2,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 2,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 2,
+                    "total_bugs": 0,
+                    "total": 30
+                }
+            }
+        }
+    },
+    "2025-06-04": {
+        "commits": {
+            "DidacLinares": 5,
+            "Lluis": 11,
+            "Pau": 6,
+            "Alex": 6,
+            "Marc": 8,
+            "anonymous": 0,
+            "total": 36
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 2793,
+                "deletions": 210,
+                "modified": 3003
+            },
+            "Lluis": {
+                "additions": 3696,
+                "deletions": 557,
+                "modified": 4253
+            },
+            "Pau": {
+                "additions": 1282,
+                "deletions": 592,
+                "modified": 1874
+            },
+            "Alex": {
+                "additions": 2490,
+                "deletions": 355,
+                "modified": 2845
+            },
+            "Marc": {
+                "additions": 3024,
+                "deletions": 504,
+                "modified": 3528
+            },
+            "total": {
+                "additions": 13285,
+                "deletions": 2218,
+                "modified": 15503
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 2,
+            "Lluis": 3,
+            "Pau": 3,
+            "Alex": 3,
+            "Marc": 0
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 2,
+            "Lluis": 3,
+            "Pau": 3,
+            "Alex": 3,
+            "Marc": 2
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 2,
+                "Lluis": 1,
+                "Pau": 2,
+                "Alex": 1,
+                "Marc": 2,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 0,
+                "Lluis": 1,
+                "Pau": 1,
+                "Alex": 1,
+                "Marc": 0
+            },
+            "have_pull_request": 8,
+            "assignee_is_pr_author": 8,
+            "total_closed": 3,
+            "total": 30
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 2,
+                "Lluis": 0,
+                "Pau": 3,
+                "Alex": 0,
+                "Marc": 3
+            },
+            "merged_per_member": {
+                "DidacLinares": 2,
+                "Lluis": 0,
+                "Pau": 1,
+                "Alex": 0,
+                "Marc": 3
+            },
+            "merged": 3,
+            "not_merged_by_author": 12,
+            "closed": 0,
+            "total": 5
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 1,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 2,
+                        "Pau": 1,
+                        "Alex": 2,
                         "Marc": 0
                     },
                     "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
+                        "DidacLinares": 0,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 0
                     },
-                    "in_progress": 5,
-                    "done":23,
-                    "todo": 10,
+                    "in_progress": 6,
+                    "done": 3,
+                    "todo": 1,
+                    "in_review": 0,
                     "total_issues": 2,
                     "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
                     "total_features": 0,
-                    "total_tasks": 1,
+                    "total_tasks": 3,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 1,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 2,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 0
+                    },
+                    "in_progress": 5,
+                    "done": 3,
+                    "todo": 3,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 3,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 1,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 2,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 0
+                    },
+                    "in_progress": 6,
+                    "done": 3,
+                    "todo": 1,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 3,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 3,
                     "total_bugs": 0,
                     "total": 40
                 }
             }
         }
     },
-    "2025-05-24": {
+    "2025-06-05": {
         "commits": {
-            "DidacLinares": 67,
-            "Lluis": 32,
-            "Pau": 47,
-            "Alex": 56,
-            "Marc": 41,
+            "DidacLinares": 7,
+            "Lluis": 16,
+            "Pau": 8,
+            "Alex": 11,
+            "Marc": 13,
             "anonymous": 0,
-            "total": 243
+            "total": 55
         },
         "modified_lines": {
             "DidacLinares": {
-                "additions": 5597,
-                "deletions": 788,
-                "modified": 6385
+                "additions": 3689,
+                "deletions": 408,
+                "modified": 4097
             },
             "Lluis": {
-                "additions": 6000,
-                "deletions": 800,
-                "modified": 6800
+                "additions": 5941,
+                "deletions": 1252,
+                "modified": 7193
             },
             "Pau": {
-                "additions": 4800,
-                "deletions": 200,
-                "modified": 5000
+                "additions": 2284,
+                "deletions": 764,
+                "modified": 3048
             },
             "Alex": {
-                "additions": 3500,
-                "deletions": 300,
-                "modified": 3800
+                "additions": 4090,
+                "deletions": 880,
+                "modified": 4970
             },
             "Marc": {
-                "additions": 4100,
-                "deletions": 600,
-                "modified": 4700
+                "additions": 5254,
+                "deletions": 634,
+                "modified": 5888
             },
             "total": {
-                "additions": 23997,
-                "deletions": 2688,
-                "modified": 30382
+                "additions": 21258,
+                "deletions": 3938,
+                "modified": 25196
             }
         },
         "commit_streak": {
-            "DidacLinares": 5,
-            "Lluis": 8,
-            "Pau": 0,
-            "Alex": 0,
-            "Marc": 4
+            "DidacLinares": 3,
+            "Lluis": 4,
+            "Pau": 4,
+            "Alex": 4,
+            "Marc": 1
         },
         "longest_commit_streak_per_user": {
-            "DidacLinares": 7,
-            "Lluis": 10,
-            "Pau": 5,
-            "Alex": 7,
-            "Marc": 4
+            "DidacLinares": 3,
+            "Lluis": 4,
+            "Pau": 4,
+            "Alex": 4,
+            "Marc": 2
         },
-        "commit_merges" : 18,
+        "commit_merges": 0,
         "issues": {
             "assigned": {
-                "DidacLinares": 9,
-                "Lluis": 7,
-                "Pau": 4,
-                "Alex": 8,
-                "Marc": 8,
+                "DidacLinares": 3,
+                "Lluis": 2,
+                "Pau": 2,
+                "Alex": 1,
+                "Marc": 3,
                 "non_assigned": 4
             },
             "closed": {
-                "DidacLinares": 4,
-                "Lluis": 4,
-                "Pau": 2,
-                "Alex": 5,
-                "Marc": 5
+                "DidacLinares": 0,
+                "Lluis": 1,
+                "Pau": 1,
+                "Alex": 1,
+                "Marc": 1
             },
-            "have_pull_request": 18,
-            "assignee_is_pr_author": 20,
-            "total_closed": 20,
+            "have_pull_request": 12,
+            "assignee_is_pr_author": 12,
+            "total_closed": 4,
             "total": 40
         },
         "pull_requests": {
             "created": {
-                "DidacLinares": 4,
-                "Lluis": 5,
+                "DidacLinares": 3,
+                "Lluis": 1,
                 "Pau": 3,
-                "Alex": 7,
-                "Marc": 5
+                "Alex": 1,
+                "Marc": 4
             },
             "merged_per_member": {
                 "DidacLinares": 3,
-                "Lluis": 4,
-                "Pau": 5,
-                "Alex": 3,
-                "Marc": 2
+                "Lluis": 1,
+                "Pau": 1,
+                "Alex": 1,
+                "Marc": 4
             },
-            "merged": 17,
-            "not_merged_by_author": 17,
-            "closed": 0,
-            "total": 24
+            "merged": 4,
+            "not_merged_by_author": 12,
+            "closed": 3,
+            "total": 7
         },
         "project": {
             "has_iterations": true,
             "iterations": {
                 "Iteration": {
                     "title": "Iteration",
-                    "startDate": "2025-04-30",
-                    "endDate": "2025-05-14",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
                     "duration": 14
                 },
                 "Iteration 2": {
                     "title": "Iteration 2",
-                    "startDate": "2025-05-14",
-                    "endDate": "2025-05-26",
-                    "duration": 12
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
                 },
                 "Iteration 3": {
                     "title": "Iteration 3",
-                    "startDate": "2025-05-26",
-                    "endDate": "2025-06-11",
-                    "duration": 16
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
                 }
             },
             "metrics_by_iteration": {
-                "Iteration 3": {
+                "Iteration": {
                     "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
+                        "DidacLinares": 3,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 3,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
-                        "Alex": 1,
+                        "DidacLinares": 2,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 2,
                         "Marc": 0
                     },
                     "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
+                        "DidacLinares": 0,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 1
                     },
                     "in_progress": 5,
-                    "done":23,
+                    "done": 4,
+                    "todo": 1,
+                    "in_review": 0,
                     "total_issues": 2,
                     "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
                     "total_features": 0,
-                    "total_tasks": 1,
+                    "total_tasks": 3,
                     "total_bugs": 0,
                     "total": 40
                 },
                 "Iteration 2": {
-                    "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
-                        "non_assigned": 4
-                    },
-                    "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
-                        "Alex": 1,
-                        "Marc": 0
-                    },
-                    "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
-                    },
-                    "in_progress": 5,
-                    "done":23,
-                    "total_issues": 2,
-                    "total_issues_with_type": 1,
-                    "total_features": 0,
-                    "total_tasks": 1,
-                    "total_bugs": 0,
-                    "total": 40
-                },
-                "Iteration": {
-                    "assigned_per_member": {
-                        "DidacLinares": 5,
-                        "Lluis": 6,
-                        "Pau": 4,
-                        "Alex": 7,
-                        "Marc": 6,
-                        "non_assigned": 4
-                    },
-                    "in_progress_per_member": {
-                        "DidacLinares": 0,
-                        "Lluis": 0,
-                        "Pau": 0,
-                        "Alex": 0,
-                        "Marc": 0
-                    },
-                    "done_per_member": {
-                        "DidacLinares": 5,
-                        "Lluis": 6,
-                        "Pau": 4,
-                        "Alex": 7,
-                        "Marc": 6
-                    },
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
                     "in_progress": 0,
-                    "done":28,
-                    "total_issues": 32,
-                    "total_issues_with_type": 32,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
                     "total_features": 0,
-                    "total_tasks": 32,
+                    "total_tasks": 0,
                     "total_bugs": 0,
-                    "total": 32
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
                 },
                 "no_iteration": {
                     "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
+                        "DidacLinares": 3,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 3,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
-                        "Alex": 1,
+                        "DidacLinares": 2,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 2,
                         "Marc": 0
                     },
                     "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
+                        "DidacLinares": 0,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 1
                     },
                     "in_progress": 5,
-                    "done":23,
+                    "done": 4,
+                    "todo": 1,
+                    "in_review": 0,
                     "total_issues": 2,
                     "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
                     "total_features": 0,
-                    "total_tasks": 1,
+                    "total_tasks": 3,
                     "total_bugs": 0,
                     "total": 40
                 },
                 "total": {
                     "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
+                        "DidacLinares": 3,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 3,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
-                        "Alex": 1,
+                        "DidacLinares": 2,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 2,
                         "Marc": 0
                     },
                     "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
+                        "DidacLinares": 0,
+                        "Lluis": 1,
+                        "Pau": 1,
+                        "Alex": 1,
+                        "Marc": 1
                     },
                     "in_progress": 5,
-                    "done":23,
-                    "todo": 10,
-                    "in_review":2,
+                    "done": 4,
+                    "todo": 1,
+                    "in_review": 0,
                     "total_issues": 2,
                     "total_issues_with_type": 1,
+                    "total_features_todo": 6,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
                     "total_features": 0,
-                    "total_tasks": 1,
+                    "total_tasks": 3,
                     "total_bugs": 0,
                     "total": 40
                 }
             }
         }
     },
-    "2025-05-25": {
+    "2025-06-06": {
         "commits": {
-            "DidacLinares": 67,
-            "Lluis": 32,
-            "Pau": 47,
-            "Alex": 56,
-            "Marc": 41,
+            "DidacLinares": 12,
+            "Lluis": 19,
+            "Pau": 8,
+            "Alex": 11,
+            "Marc": 18,
             "anonymous": 0,
-            "total": 243
+            "total": 68
         },
         "modified_lines": {
             "DidacLinares": {
-                "additions": 5597,
-                "deletions": 788,
-                "modified": 6385
+                "additions": 6619,
+                "deletions": 683,
+                "modified": 7302
             },
             "Lluis": {
-                "additions": 6000,
-                "deletions": 800,
-                "modified": 6800
+                "additions": 6715,
+                "deletions": 1432,
+                "modified": 8147
             },
             "Pau": {
-                "additions": 4800,
-                "deletions": 200,
-                "modified": 5000
+                "additions": 2284,
+                "deletions": 764,
+                "modified": 3048
             },
             "Alex": {
-                "additions": 3500,
-                "deletions": 300,
-                "modified": 3800
+                "additions": 4090,
+                "deletions": 880,
+                "modified": 4970
             },
             "Marc": {
-                "additions": 4100,
-                "deletions": 600,
-                "modified": 4700
+                "additions": 5969,
+                "deletions": 879,
+                "modified": 6848
             },
             "total": {
-                "additions": 23997,
-                "deletions": 2688,
-                "modified": 30382
+                "additions": 25677,
+                "deletions": 4638,
+                "modified": 30315
             }
         },
         "commit_streak": {
-            "DidacLinares": 5,
-            "Lluis": 8,
+            "DidacLinares": 4,
+            "Lluis": 5,
             "Pau": 0,
             "Alex": 0,
-            "Marc": 4
+            "Marc": 2
         },
         "longest_commit_streak_per_user": {
-            "DidacLinares": 7,
-            "Lluis": 10,
-            "Pau": 5,
-            "Alex": 7,
-            "Marc": 4
+            "DidacLinares": 4,
+            "Lluis": 5,
+            "Pau": 4,
+            "Alex": 4,
+            "Marc": 2
         },
-        "commit_merges" : 18,
+        "commit_merges": 0,
         "issues": {
             "assigned": {
-                "DidacLinares": 9,
-                "Lluis": 7,
-                "Pau": 4,
-                "Alex": 8,
-                "Marc": 8,
+                "DidacLinares": 4,
+                "Lluis": 2,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 4,
                 "non_assigned": 4
             },
             "closed": {
-                "DidacLinares": 4,
-                "Lluis": 4,
+                "DidacLinares": 1,
+                "Lluis": 2,
                 "Pau": 2,
-                "Alex": 5,
-                "Marc": 5
+                "Alex": 1,
+                "Marc": 2
             },
-            "have_pull_request": 18,
-            "assignee_is_pr_author": 20,
-            "total_closed": 20,
+            "have_pull_request": 14,
+            "assignee_is_pr_author": 14,
+            "total_closed": 8,
             "total": 40
         },
         "pull_requests": {
             "created": {
                 "DidacLinares": 4,
-                "Lluis": 5,
+                "Lluis": 2,
                 "Pau": 3,
-                "Alex": 7,
-                "Marc": 5
+                "Alex": 1,
+                "Marc": 4
             },
             "merged_per_member": {
-                "DidacLinares": 3,
-                "Lluis": 4,
-                "Pau": 5,
-                "Alex": 3,
-                "Marc": 2
+                "DidacLinares": 4,
+                "Lluis": 2,
+                "Pau": 2,
+                "Alex": 1,
+                "Marc": 4
             },
-            "merged": 17,
-            "not_merged_by_author": 17,
-            "closed": 0,
-            "total": 24
+            "merged": 4,
+            "not_merged_by_author": 14,
+            "closed": 3,
+            "total": 10
         },
         "project": {
             "has_iterations": true,
             "iterations": {
                 "Iteration": {
                     "title": "Iteration",
-                    "startDate": "2025-04-30",
-                    "endDate": "2025-05-14",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
                     "duration": 14
                 },
                 "Iteration 2": {
                     "title": "Iteration 2",
-                    "startDate": "2025-05-14",
-                    "endDate": "2025-05-26",
-                    "duration": 12
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
                 },
                 "Iteration 3": {
                     "title": "Iteration 3",
-                    "startDate": "2025-05-26",
-                    "endDate": "2025-06-11",
-                    "duration": 16
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
                 }
             },
             "metrics_by_iteration": {
-                "Iteration 3": {
+                "Iteration": {
                     "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
+                        "DidacLinares": 4,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 4,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
+                        "DidacLinares": 2,
+                        "Lluis": 0,
+                        "Pau": 1,
                         "Alex": 1,
                         "Marc": 0
                     },
                     "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2
                     },
-                    "in_progress": 5,
-                    "done":23,
+                    "in_progress": 4,
+                    "done": 8,
+                    "todo": 0,
+                    "in_review": 0,
                     "total_issues": 2,
                     "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
                     "total_features": 0,
-                    "total_tasks": 1,
+                    "total_tasks": 4,
                     "total_bugs": 0,
                     "total": 40
                 },
                 "Iteration 2": {
-                    "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
-                        "non_assigned": 4
-                    },
-                    "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
-                        "Alex": 1,
-                        "Marc": 0
-                    },
-                    "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
-                    },
-                    "in_progress": 5,
-                    "done":23,
-                    "total_issues": 2,
-                    "total_issues_with_type": 1,
-                    "total_features": 0,
-                    "total_tasks": 1,
-                    "total_bugs": 0,
-                    "total": 40
-                },
-                "Iteration": {
-                    "assigned_per_member": {
-                        "DidacLinares": 5,
-                        "Lluis": 6,
-                        "Pau": 4,
-                        "Alex": 7,
-                        "Marc": 6,
-                        "non_assigned": 4
-                    },
-                    "in_progress_per_member": {
-                        "DidacLinares": 0,
-                        "Lluis": 0,
-                        "Pau": 0,
-                        "Alex": 0,
-                        "Marc": 0
-                    },
-                    "done_per_member": {
-                        "DidacLinares": 5,
-                        "Lluis": 6,
-                        "Pau": 4,
-                        "Alex": 7,
-                        "Marc": 6
-                    },
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
                     "in_progress": 0,
-                    "done":28,
-                    "total_issues": 32,
-                    "total_issues_with_type": 32,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
                     "total_features": 0,
-                    "total_tasks": 32,
+                    "total_tasks": 0,
                     "total_bugs": 0,
-                    "total": 32
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
                 },
                 "no_iteration": {
                     "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
+                        "DidacLinares": 4,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 4,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
+                        "DidacLinares": 2,
+                        "Lluis": 0,
+                        "Pau": 1,
                         "Alex": 1,
                         "Marc": 0
                     },
                     "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2
                     },
-                    "todo" : 10,
-                    "in_progress": 5,
-                    "done":23,
+                    "in_progress": 4,
+                    "done": 8,
+                    "todo": 0,
+                    "in_review": 0,
                     "total_issues": 2,
                     "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
                     "total_features": 0,
-                    "total_tasks": 1,
+                    "total_tasks": 4,
                     "total_bugs": 0,
                     "total": 40
                 },
                 "total": {
                     "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
+                        "DidacLinares": 4,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 4,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
+                        "DidacLinares": 2,
+                        "Lluis": 0,
+                        "Pau": 1,
                         "Alex": 1,
                         "Marc": 0
                     },
                     "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2
                     },
-                    "todo": 10,
-                    "in_progress": 5,
-                    "done":23,
-                    "in_review":2,
+                    "in_progress": 4,
+                    "done": 8,
+                    "todo": 0,
+                    "in_review": 0,
                     "total_issues": 2,
                     "total_issues_with_type": 1,
+                    "total_features_todo": 6,
+                    "total_features_in_progress": 2,
+                    "total_features_in_review": 1,
+                    "total_features_done": 0,
                     "total_features": 0,
-                    "total_tasks": 1,
+                    "total_tasks": 4,
                     "total_bugs": 0,
                     "total": 40
                 }
             }
         }
-    },   
-    "2025-05-26": {
+    },
+    "2025-06-07": {
         "commits": {
-            "DidacLinares": 67,
-            "Lluis": 32,
-            "Pau": 47,
-            "Alex": 56,
-            "Marc": 41,
+            "DidacLinares": 13,
+            "Lluis": 21,
+            "Pau": 11,
+            "Alex": 15,
+            "Marc": 21,
             "anonymous": 0,
-            "total": 243
+            "total": 81
         },
         "modified_lines": {
             "DidacLinares": {
-                "additions": 5597,
-                "deletions": 788,
-                "modified": 6385
+                "additions": 6991,
+                "deletions": 718,
+                "modified": 7709
             },
             "Lluis": {
-                "additions": 6000,
-                "deletions": 800,
-                "modified": 6800
+                "additions": 7847,
+                "deletions": 1672,
+                "modified": 9519
             },
             "Pau": {
-                "additions": 4800,
-                "deletions": 200,
-                "modified": 5000
+                "additions": 3733,
+                "deletions": 1055,
+                "modified": 4788
             },
             "Alex": {
-                "additions": 3500,
-                "deletions": 300,
-                "modified": 3800
+                "additions": 6126,
+                "deletions": 1180,
+                "modified": 7306
             },
             "Marc": {
-                "additions": 4100,
-                "deletions": 600,
-                "modified": 4700
+                "additions": 6299,
+                "deletions": 1212,
+                "modified": 7511
             },
             "total": {
-                "additions": 23997,
-                "deletions": 2688,
-                "modified": 30382
+                "additions": 30996,
+                "deletions": 5837,
+                "modified": 36833
             }
         },
         "commit_streak": {
             "DidacLinares": 5,
-            "Lluis": 8,
-            "Pau": 0,
-            "Alex": 0,
-            "Marc": 4
+            "Lluis": 6,
+            "Pau": 1,
+            "Alex": 1,
+            "Marc": 3
         },
         "longest_commit_streak_per_user": {
-            "DidacLinares": 7,
-            "Lluis": 10,
-            "Pau": 5,
-            "Alex": 7,
-            "Marc": 4
+            "DidacLinares": 5,
+            "Lluis": 6,
+            "Pau": 4,
+            "Alex": 4,
+            "Marc": 3
         },
-        "commit_merges" : 18,
+        "commit_merges": 0,
         "issues": {
             "assigned": {
-                "DidacLinares": 9,
-                "Lluis": 7,
-                "Pau": 4,
-                "Alex": 8,
-                "Marc": 8,
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5,
                 "non_assigned": 4
             },
             "closed": {
-                "DidacLinares": 4,
-                "Lluis": 4,
+                "DidacLinares": 2,
+                "Lluis": 2,
                 "Pau": 2,
-                "Alex": 5,
-                "Marc": 5
+                "Alex": 1,
+                "Marc": 2
             },
-            "have_pull_request": 18,
-            "assignee_is_pr_author": 20,
-            "total_closed": 20,
+            "have_pull_request": 16,
+            "assignee_is_pr_author": 16,
+            "total_closed": 9,
             "total": 40
         },
         "pull_requests": {
             "created": {
-                "DidacLinares": 4,
-                "Lluis": 5,
+                "DidacLinares": 5,
+                "Lluis": 3,
                 "Pau": 3,
-                "Alex": 7,
-                "Marc": 5
+                "Alex": 1,
+                "Marc": 4
             },
             "merged_per_member": {
-                "DidacLinares": 3,
-                "Lluis": 4,
-                "Pau": 5,
-                "Alex": 3,
-                "Marc": 2
+                "DidacLinares": 5,
+                "Lluis": 3,
+                "Pau": 3,
+                "Alex": 1,
+                "Marc": 4
             },
-            "merged": 17,
-            "not_merged_by_author": 17,
-            "closed": 0,
-            "total": 24
+            "merged": 9,
+            "not_merged_by_author": 14,
+            "closed": 3,
+            "total": 15
         },
         "project": {
             "has_iterations": true,
             "iterations": {
                 "Iteration": {
                     "title": "Iteration",
-                    "startDate": "2025-04-30",
-                    "endDate": "2025-05-14",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
                     "duration": 14
                 },
                 "Iteration 2": {
                     "title": "Iteration 2",
-                    "startDate": "2025-05-14",
-                    "endDate": "2025-05-26",
-                    "duration": 12
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
                 },
                 "Iteration 3": {
                     "title": "Iteration 3",
-                    "startDate": "2025-05-26",
-                    "endDate": "2025-06-11",
-                    "duration": 16
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
                 }
             },
             "metrics_by_iteration": {
-                "Iteration 3": {
-                    "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
-                        "non_assigned": 4
-                    },
-                    "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
-                        "Alex": 1,
-                        "Marc": 0
-                    },
-                    "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
-                    },
-                    "in_progress": 5,
-                    "done":23,
-                    "todo": 10,
-                    "in_review":2,
-                    "total_issues": 2,
-                    "total_issues_with_type": 1,
-                    "total_features": 0,
-                    "total_tasks": 1,
-                    "total_bugs": 0,
-                    "total": 40
-                },
-                "Iteration 2": {
-                    "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
-                        "non_assigned": 4
-                    },
-                    "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
-                        "Pau": 2,
-                        "Alex": 1,
-                        "Marc": 0
-                    },
-                    "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
-                    },
-                    "in_progress": 5,
-                    "done":23,
-                    "todo": 10,
-                    "in_review":2,
-                    "total_issues": 2,
-                    "total_issues_with_type": 1,
-                    "total_features": 0,
-                    "total_tasks": 1,
-                    "total_bugs": 0,
-                    "total": 40
-                },
                 "Iteration": {
                     "assigned_per_member": {
-                        "DidacLinares": 5,
-                        "Lluis": 6,
-                        "Pau": 4,
-                        "Alex": 7,
-                        "Marc": 6,
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
-                        "DidacLinares": 0,
+                        "DidacLinares": 2,
                         "Lluis": 0,
-                        "Pau": 0,
+                        "Pau": 2,
                         "Alex": 0,
                         "Marc": 0
                     },
                     "done_per_member": {
-                        "DidacLinares": 5,
-                        "Lluis": 6,
-                        "Pau": 4,
-                        "Alex": 7,
-                        "Marc": 6
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2
                     },
-                    "in_progress": 0,
-                    "done":28,
-                    "total_issues": 32,
-                    "total_issues_with_type": 32,
+                    "in_progress": 4,
+                    "done": 9,
+                    "todo": 1,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
                     "total_features": 0,
-                    "total_tasks": 32,
+                    "total_tasks": 5,
                     "total_bugs": 0,
-                    "total": 32
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
                 },
                 "no_iteration": {
                     "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
-                        "DidacLinares": 1,
-                        "Lluis": 1,
+                        "DidacLinares": 2,
+                        "Lluis": 0,
                         "Pau": 2,
-                        "Alex": 1,
+                        "Alex": 0,
                         "Marc": 0
                     },
                     "done_per_member": {
-                        "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2
                     },
-                    "in_progress": 5,
-                    "done":23,
+                    "in_progress": 4,
+                    "done": 9,
+                    "todo": 1,
+                    "in_review": 0,
                     "total_issues": 2,
                     "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
                     "total_features": 0,
-                    "total_tasks": 1,
+                    "total_tasks": 5,
                     "total_bugs": 0,
                     "total": 40
                 },
                 "total": {
                     "assigned_per_member": {
-                        "DidacLinares": 9,
-                        "Lluis": 7,
-                        "Pau": 4,
-                        "Alex": 8,
-                        "Marc": 8,
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 0,
+                        "Pau": 2,
+                        "Alex": 0,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2
+                    },
+                    "in_progress": 4,
+                    "done": 9,
+                    "todo": 1,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 5,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 0,
+                    "total_features_done": 1,
+                    "total_features": 0,
+                    "total_tasks": 5,
+                    "total_bugs": 0,
+                    "total": 40
+                }
+            }
+        }
+    },
+    "2025-06-08": {
+        "commits": {
+            "DidacLinares": 13,
+            "Lluis": 21,
+            "Pau": 11,
+            "Alex": 18,
+            "Marc": 26,
+            "anonymous": 0,
+            "total": 89
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 6991,
+                "deletions": 718,
+                "modified": 7709
+            },
+            "Lluis": {
+                "additions": 7847,
+                "deletions": 1672,
+                "modified": 9519
+            },
+            "Pau": {
+                "additions": 3733,
+                "deletions": 1055,
+                "modified": 4788
+            },
+            "Alex": {
+                "additions": 7344,
+                "deletions": 1573,
+                "modified": 8917
+            },
+            "Marc": {
+                "additions": 6894,
+                "deletions": 1837,
+                "modified": 8731
+            },
+            "total": {
+                "additions": 32809,
+                "deletions": 6855,
+                "modified": 39664
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 0,
+            "Lluis": 0,
+            "Pau": 0,
+            "Alex": 2,
+            "Marc": 4
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 5,
+            "Lluis": 6,
+            "Pau": 4,
+            "Alex": 4,
+            "Marc": 4
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 2,
+                "Lluis": 2,
+                "Pau": 2,
+                "Alex": 1,
+                "Marc": 2
+            },
+            "have_pull_request": 19,
+            "assignee_is_pr_author": 19,
+            "total_closed": 9,
+            "total": 40
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged_per_member": {
+                "DidacLinares": 5,
+                "Lluis": 3,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 4
+            },
+            "merged": 9,
+            "not_merged_by_author": 14,
+            "closed": 3,
+            "total": 20
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
                         "non_assigned": 4
                     },
                     "in_progress_per_member": {
                         "DidacLinares": 1,
-                        "Lluis": 1,
+                        "Lluis": 0,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 2,
                         "Pau": 2,
                         "Alex": 1,
+                        "Marc": 2
+                    },
+                    "in_progress": 5,
+                    "done": 9,
+                    "todo": 1,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 6,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 0,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2
+                    },
+                    "in_progress": 5,
+                    "done": 9,
+                    "todo": 1,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 6,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 0,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 1,
+                        "Marc": 2
+                    },
+                    "in_progress": 5,
+                    "done": 9,
+                    "todo": 1,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 5,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 0,
+                    "total_features_done": 1,
+                    "total_features": 0,
+                    "total_tasks": 6,
+                    "total_bugs": 0,
+                    "total": 40
+                }
+            }
+        }
+    },
+    "2025-06-09": {
+        "commits": {
+            "DidacLinares": 18,
+            "Lluis": 25,
+            "Pau": 15,
+            "Alex": 19,
+            "Marc": 29,
+            "anonymous": 0,
+            "total": 106
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 8111,
+                "deletions": 1153,
+                "modified": 9264
+            },
+            "Lluis": {
+                "additions": 8907,
+                "deletions": 1924,
+                "modified": 10831
+            },
+            "Pau": {
+                "additions": 5353,
+                "deletions": 1355,
+                "modified": 6708
+            },
+            "Alex": {
+                "additions": 7543,
+                "deletions": 1620,
+                "modified": 9163
+            },
+            "Marc": {
+                "additions": 8220,
+                "deletions": 1876,
+                "modified": 10096
+            },
+            "total": {
+                "additions": 38134,
+                "deletions": 7928,
+                "modified": 46062
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 1,
+            "Lluis": 1,
+            "Pau": 1,
+            "Alex": 3,
+            "Marc": 5
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 5,
+            "Lluis": 6,
+            "Pau": 4,
+            "Alex": 4,
+            "Marc": 5
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 2,
+                "Lluis": 2,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 2
+            },
+            "have_pull_request": 19,
+            "assignee_is_pr_author": 19,
+            "total_closed": 15,
+            "total": 40
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged_per_member": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged": 12,
+            "not_merged_by_author": 14,
+            "closed": 5,
+            "total": 20
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 2
+                    },
+                    "in_progress": 4,
+                    "done": 10,
+                    "todo": 0,
+                    "in_review": 1,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 7,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 2
+                    },
+                    "in_progress": 4,
+                    "done": 10,
+                    "todo": 0,
+                    "in_review": 1,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 7,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 2
+                    },
+                    "in_progress": 4,
+                    "done": 10,
+                    "todo": 0,
+                    "in_review": 1,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 3,
+                    "total_features_in_progress": 4,
+                    "total_features_in_review": 1,
+                    "total_features_done": 1,
+                    "total_features": 0,
+                    "total_tasks": 7,
+                    "total_bugs": 0,
+                    "total": 40
+                }
+            }
+        }
+    },
+    "2025-06-10": {
+        "commits": {
+            "DidacLinares": 19,
+            "Lluis": 28,
+            "Pau": 15,
+            "Alex": 23,
+            "Marc": 30,
+            "anonymous": 0,
+            "total": 115
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 8325,
+                "deletions": 1188,
+                "modified": 9513
+            },
+            "Lluis": {
+                "additions": 9537,
+                "deletions": 1972,
+                "modified": 11509
+            },
+            "Pau": {
+                "additions": 5353,
+                "deletions": 1355,
+                "modified": 6708
+            },
+            "Alex": {
+                "additions": 9195,
+                "deletions": 1876,
+                "modified": 11071
+            },
+            "Marc": {
+                "additions": 8807,
+                "deletions": 1944,
+                "modified": 10751
+            },
+            "total": {
+                "additions": 41217,
+                "deletions": 8335,
+                "modified": 49552
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 2,
+            "Lluis": 2,
+            "Pau": 0,
+            "Alex": 4,
+            "Marc": 6
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 5,
+            "Lluis": 6,
+            "Pau": 4,
+            "Alex": 4,
+            "Marc": 6
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 3,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 3
+            },
+            "have_pull_request": 19,
+            "assignee_is_pr_author": 19,
+            "total_closed": 18,
+            "total": 40
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged_per_member": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged": 15,
+            "not_merged_by_author": 14,
+            "closed": 5,
+            "total": 22
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 3,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 5,
+                    "done": 13,
+                    "todo": 0,
+                    "in_review": 4,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 7,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 3,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 5,
+                    "done": 13,
+                    "todo": 0,
+                    "in_review": 4,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 7,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 3,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 5,
+                    "done": 13,
+                    "todo": 0,
+                    "in_review": 2,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 4,
+                    "total_features_in_review": 1,
+                    "total_features_done": 2,
+                    "total_features": 0,
+                    "total_tasks": 7,
+                    "total_bugs": 0,
+                    "total": 40
+                }
+            }
+        }
+    },
+    "2025-06-11": {
+        "commits": {
+            "DidacLinares": 20,
+            "Lluis": 30,
+            "Pau": 15,
+            "Alex": 26,
+            "Marc": 32,
+            "anonymous": 0,
+            "total": 123
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 8796,
+                "deletions": 1251,
+                "modified": 10047
+            },
+            "Lluis": {
+                "additions": 10273,
+                "deletions": 2158,
+                "modified": 12431
+            },
+            "Pau": {
+                "additions": 5353,
+                "deletions": 1355,
+                "modified": 6708
+            },
+            "Alex": {
+                "additions": 9936,
+                "deletions": 2293,
+                "modified": 12229
+            },
+            "Marc": {
+                "additions": 9673,
+                "deletions": 2198,
+                "modified": 11871
+            },
+            "total": {
+                "additions": 44031,
+                "deletions": 9255,
+                "modified": 53286
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 3,
+            "Lluis": 3,
+            "Pau": 0,
+            "Alex": 5,
+            "Marc": 7
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 5,
+            "Lluis": 6,
+            "Pau": 4,
+            "Alex": 5,
+            "Marc": 7
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 3
+            },
+            "have_pull_request": 19,
+            "assignee_is_pr_author": 19,
+            "total_closed": 19,
+            "total": 40
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged_per_member": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged": 18,
+            "not_merged_by_author": 14,
+            "closed": 5,
+            "total": 25
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 0,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 4,
+                    "done": 14,
+                    "todo": 0,
+                    "in_review": 2,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 7,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 0,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 4,
+                    "done": 14,
+                    "todo": 0,
+                    "in_review": 2,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 7,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 0,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 4,
+                    "done": 14,
+                    "todo": 0,
+                    "in_review": 2,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 4,
+                    "total_features_in_review": 1,
+                    "total_features_done": 2,
+                    "total_features": 0,
+                    "total_tasks": 7,
+                    "total_bugs": 0,
+                    "total": 40
+                }
+            }
+        }
+    },
+    "2025-06-12": {
+        "commits": {
+            "DidacLinares": 25,
+            "Lluis": 33,
+            "Pau": 18,
+            "Alex": 26,
+            "Marc": 34,
+            "anonymous": 0,
+            "total": 136
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 9306,
+                "deletions": 1371,
+                "modified": 10677
+            },
+            "Lluis": {
+                "additions": 11290,
+                "deletions": 2254,
+                "modified": 13544
+            },
+            "Pau": {
+                "additions": 6763,
+                "deletions": 1700,
+                "modified": 8463
+            },
+            "Alex": {
+                "additions": 9936,
+                "deletions": 2293,
+                "modified": 12229
+            },
+            "Marc": {
+                "additions": 9983,
+                "deletions": 2364,
+                "modified": 12347
+            },
+            "total": {
+                "additions": 47278,
+                "deletions": 9982,
+                "modified": 57260
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 4,
+            "Lluis": 4,
+            "Pau": 1,
+            "Alex": 0,
+            "Marc": 8
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 5,
+            "Lluis": 6,
+            "Pau": 4,
+            "Alex": 5,
+            "Marc": 8
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 3
+            },
+            "have_pull_request": 19,
+            "assignee_is_pr_author": 19,
+            "total_closed": 20,
+            "total": 40
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged_per_member": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged": 22,
+            "not_merged_by_author": 14,
+            "closed": 5,
+            "total": 30
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 5,
+                    "done": 14,
+                    "todo": 0,
+                    "in_review": 1,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 8,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 5,
+                    "done": 14,
+                    "todo": 0,
+                    "in_review": 1,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 1,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 8,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 5,
+                    "done": 14,
+                    "todo": 0,
+                    "in_review": 1,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 1,
+                    "total_features_in_progress": 4,
+                    "total_features_in_review": 1,
+                    "total_features_done": 3,
+                    "total_features": 0,
+                    "total_tasks": 8,
+                    "total_bugs": 0,
+                    "total": 40
+                }
+            }
+        }
+    },
+    "2025-06-13": {
+        "commits": {
+            "DidacLinares": 26,
+            "Lluis": 36,
+            "Pau": 20,
+            "Alex": 27,
+            "Marc": 38,
+            "anonymous": 0,
+            "total": 147
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 9802,
+                "deletions": 1439,
+                "modified": 11241
+            },
+            "Lluis": {
+                "additions": 12781,
+                "deletions": 2413,
+                "modified": 15194
+            },
+            "Pau": {
+                "additions": 7833,
+                "deletions": 1816,
+                "modified": 9649
+            },
+            "Alex": {
+                "additions": 10070,
+                "deletions": 2373,
+                "modified": 12443
+            },
+            "Marc": {
+                "additions": 11459,
+                "deletions": 2884,
+                "modified": 14343
+            },
+            "total": {
+                "additions": 51945,
+                "deletions": 10925,
+                "modified": 62870
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 5,
+            "Lluis": 5,
+            "Pau": 2,
+            "Alex": 1,
+            "Marc": 9
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 5,
+            "Lluis": 6,
+            "Pau": 4,
+            "Alex": 5,
+            "Marc": 9
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 3
+            },
+            "have_pull_request": 19,
+            "assignee_is_pr_author": 19,
+            "total_closed": 25,
+            "total": 40
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged_per_member": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged": 25,
+            "not_merged_by_author": 14,
+            "closed": 5,
+            "total": 35
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 2,
                         "Marc": 0
                     },
                     "done_per_member": {
                         "DidacLinares": 4,
-                        "Lluis": 5,
-                        "Pau": 3,
-                        "Alex": 6,
-                        "Marc": 5
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
                     },
-                    "in_progress": 5,
-                    "done":23,
-                    "todo": 10,
-                    "in_review":2,
+                    "in_progress": 4,
+                    "done": 16,
+                    "todo": 1,
+                    "in_review": 0,
                     "total_issues": 2,
                     "total_issues_with_type": 1,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 3,
+                    "total_features_done": 10,
                     "total_features": 0,
-                    "total_tasks": 1,
+                    "total_tasks": 10,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 8,
+                    "done": 14,
+                    "todo": 0,
+                    "in_review": 1,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 8,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 2,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 3
+                    },
+                    "in_progress": 5,
+                    "done": 16,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 1,
+                    "total_features_in_progress": 2,
+                    "total_features_in_review": 3,
+                    "total_features_done": 3,
+                    "total_features": 0,
+                    "total_tasks": 10,
+                    "total_bugs": 0,
+                    "total": 40
+                }
+            }
+        }
+    },
+    "2025-06-14": {
+        "commits": {
+            "DidacLinares": 26,
+            "Lluis": 36,
+            "Pau": 25,
+            "Alex": 27,
+            "Marc": 38,
+            "anonymous": 0,
+            "total": 152
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 9802,
+                "deletions": 1439,
+                "modified": 11241
+            },
+            "Lluis": {
+                "additions": 12781,
+                "deletions": 2413,
+                "modified": 15194
+            },
+            "Pau": {
+                "additions": 9693,
+                "deletions": 2326,
+                "modified": 12019
+            },
+            "Alex": {
+                "additions": 10070,
+                "deletions": 2373,
+                "modified": 12443
+            },
+            "Marc": {
+                "additions": 11459,
+                "deletions": 2884,
+                "modified": 14343
+            },
+            "total": {
+                "additions": 53805,
+                "deletions": 11435,
+                "modified": 65240
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 0,
+            "Lluis": 0,
+            "Pau": 3,
+            "Alex": 0,
+            "Marc": 0
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 5,
+            "Lluis": 6,
+            "Pau": 4,
+            "Alex": 5,
+            "Marc": 9
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 4
+            },
+            "have_pull_request": 19,
+            "assignee_is_pr_author": 19,
+            "total_closed": 30,
+            "total": 40
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged_per_member": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged": 28,
+            "not_merged_by_author": 14,
+            "closed": 5,
+            "total": 40
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 4
+                    },
+                    "in_progress": 3,
+                    "done": 16,
+                    "todo": 0,
+                    "in_review": 2,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 3,
+                    "total_features_done": 10,
+                    "total_features": 0,
+                    "total_tasks": 10,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 4
+                    },
+                    "in_progress": 2,
+                    "done": 15,
+                    "todo": 1,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 9,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 4
+                    },
+                    "in_progress": 3,
+                    "done": 16,
+                    "todo": 0,
+                    "in_review": 2,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 1,
+                    "total_features_done": 5,
+                    "total_features": 0,
+                    "total_tasks": 10,
+                    "total_bugs": 0,
+                    "total": 40
+                }
+            }
+        }
+    },
+    "2025-06-15": {
+        "commits": {
+            "DidacLinares": 30,
+            "Lluis": 40,
+            "Pau": 27,
+            "Alex": 31,
+            "Marc": 40,
+            "anonymous": 0,
+            "total": 168
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 10678,
+                "deletions": 1759,
+                "modified": 12437
+            },
+            "Lluis": {
+                "additions": 14985,
+                "deletions": 2733,
+                "modified": 17718
+            },
+            "Pau": {
+                "additions": 10059,
+                "deletions": 2554,
+                "modified": 12613
+            },
+            "Alex": {
+                "additions": 11926,
+                "deletions": 2457,
+                "modified": 14383
+            },
+            "Marc": {
+                "additions": 12191,
+                "deletions": 3030,
+                "modified": 15221
+            },
+            "total": {
+                "additions": 59839,
+                "deletions": 12533,
+                "modified": 72372
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 1,
+            "Lluis": 1,
+            "Pau": 4,
+            "Alex": 1,
+            "Marc": 1
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 5,
+            "Lluis": 6,
+            "Pau": 4,
+            "Alex": 5,
+            "Marc": 9
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "have_pull_request": 19,
+            "assignee_is_pr_author": 19,
+            "total_closed": 40,
+            "total": 40
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged_per_member": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged": 40,
+            "not_merged_by_author": 14,
+            "closed": 5,
+            "total": 45
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5
+                    },
+                    "in_progress": 0,
+                    "done": 21,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 13,
+                    "total_features": 0,
+                    "total_tasks": 10,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5
+                    },
+                    "in_progress": 7,
+                    "done": 16,
+                    "todo": 1,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 10,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 1,
+                        "Lluis": 2,
+                        "Pau": 1,
+                        "Alex": 2,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5
+                    },
+                    "in_progress": 0,
+                    "done": 21,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 9,
+                    "total_features": 0,
+                    "total_tasks": 10,
+                    "total_bugs": 0,
+                    "total": 40
+                }
+            }
+        }
+    },
+    "2025-06-16": {
+        "commits": {
+            "DidacLinares": 35,
+            "Lluis": 45,
+            "Pau": 28,
+            "Alex": 33,
+            "Marc": 44,
+            "anonymous": 0,
+            "total": 185
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 11333,
+                "deletions": 1864,
+                "modified": 13197
+            },
+            "Lluis": {
+                "additions": 15830,
+                "deletions": 2908,
+                "modified": 18738
+            },
+            "Pau": {
+                "additions": 10598,
+                "deletions": 2672,
+                "modified": 13270
+            },
+            "Alex": {
+                "additions": 12834,
+                "deletions": 2655,
+                "modified": 15489
+            },
+            "Marc": {
+                "additions": 13615,
+                "deletions": 3226,
+                "modified": 16841
+            },
+            "total": {
+                "additions": 64210,
+                "deletions": 13325,
+                "modified": 77535
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 2,
+            "Lluis": 2,
+            "Pau": 5,
+            "Alex": 2,
+            "Marc": 2
+        },
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 5,
+            "Lluis": 6,
+            "Pau": 5,
+            "Alex": 5,
+            "Marc": 9
+        },
+        "commit_merges": 0,
+        "issues": {
+            "assigned": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5,
+                "non_assigned": 4
+            },
+            "closed": {
+                "DidacLinares": 4,
+                "Lluis": 3,
+                "Pau": 2,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "have_pull_request": 19,
+            "assignee_is_pr_author": 19,
+            "total_closed": 40,
+            "total": 40
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged_per_member": {
+                "DidacLinares": 5,
+                "Lluis": 4,
+                "Pau": 3,
+                "Alex": 2,
+                "Marc": 5
+            },
+            "merged": 40,
+            "not_merged_by_author": 14,
+            "closed": 5,
+            "total": 45
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-06-02",
+                    "endDate": "2025-06-15",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-06-16",
+                    "endDate": "2025-06-29",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-06-29",
+                    "endDate": "2025-07-12",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5
+                    },
+                    "in_progress": 0,
+                    "done": 21,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 13,
+                    "total_features": 0,
+                    "total_tasks": 10,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "Iteration 2": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "Iteration 3": {
+                    "assigned_per_member": 0,
+                    "in_progress_per_member": 0,
+                    "done_per_member": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5
+                    },
+                    "in_progress": 4,
+                    "done": 16,
+                    "todo": 1,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 2,
+                    "total_features_in_progress": 3,
+                    "total_features_in_review": 4,
+                    "total_features_done": 4,
+                    "total_features": 0,
+                    "total_tasks": 10,
+                    "total_bugs": 0,
+                    "total": 40
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5,
+                        "non_assigned": 4
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 2,
+                        "Lluis": 0,
+                        "Pau": 1,
+                        "Alex": 0,
+                        "Marc": 1
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 4,
+                        "Lluis": 3,
+                        "Pau": 2,
+                        "Alex": 2,
+                        "Marc": 5
+                    },
+                    "in_progress": 0,
+                    "done": 21,
+                    "todo": 0,
+                    "in_review": 0,
+                    "total_issues": 2,
+                    "total_issues_with_type": 1,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_in_review": 0,
+                    "total_features_done": 9,
+                    "total_features": 0,
+                    "total_tasks": 10,
                     "total_bugs": 0,
                     "total": 40
                 }
